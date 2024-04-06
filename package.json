@@ -3,10 +3,10 @@
   "devDependencies": {
     "ava": "6.1.2",
     "chai": "5.1.0",
-    "eslint": "8.57.0",
+    "eslint": "9.0.0",
     "eslint-config-google": "0.14.0",
     "mocha": "10.4.0",
-    "puppeteer": "22.6.2",
+    "puppeteer": "22.6.3",
     "static-server": "2.2.1"
   },
   "private": true,
